@@ -1,0 +1,3 @@
+# Archivos compilados y salida de compilación
+*.class
+out/
